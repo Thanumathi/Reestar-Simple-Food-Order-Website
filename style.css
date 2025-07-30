@@ -1,0 +1,73 @@
+.container{
+    padding: 50px;    
+}
+.section-one{
+    background-color: black;
+    text-align: center;
+    padding-top:5px;
+    padding-bottom: 10px;
+   
+   
+    }
+    .section-one__title{
+        color: white;
+    }
+    .section-one__desc{
+        color:gray;
+    }
+    *{
+        padding: 0px;
+        margin:0px;
+    }
+    .section-two,.section-three{
+       margin-top: 20px;
+       text-align: center;
+       
+    }
+    .section-two__card{
+        background-color:white;
+        width: 200px;
+        height:auto;
+        padding:2px;
+        display: inline-block; 
+        border: solid black 1px;
+        margin: 5px;
+     }
+     .section-two__image{
+        width: 200px;
+        height:300px;
+    
+     }
+.section-two__btn{
+    background-color: black;
+    color:white;
+   padding: 5px;
+   margin-top: 5px;
+   margin-bottom: 3px;
+   border:none;
+}
+
+.section-three{
+background-color: black;
+color:white;
+padding: 10px;
+}
+.section-three__table{
+margin-left: auto;
+margin-right: auto;
+
+}
+.section-three__content{
+    padding: 2px;
+    margin:3px
+}
+.section-three__btn{
+background-color: yellow;
+border:none;
+margin-top: 3px;
+padding-top: 2px;
+padding-bottom: 2px;
+padding-right: 150px;
+padding-left: 150px;
+
+}
