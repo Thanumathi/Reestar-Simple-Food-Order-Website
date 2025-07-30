@@ -13,6 +13,9 @@ The site showcases a few food items with an option to "Order Now" and includes a
 - HTML5
 - CSS3
 
+## 🔗 Project Link
+You can view the full project on [GitHub](Link).
+
 ---
 
 > This project is for learning and demonstration purposes.
